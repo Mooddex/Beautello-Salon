@@ -46,7 +46,7 @@ header {
      
    }
  
-nav  ul{
+#navigationtap{
       display: flex;
       flex-flow: row wrap;
       justify-content: space-around;
@@ -56,6 +56,7 @@ nav  ul{
       margin: 0px;
     background-color: lightsalmon;
     }
+    
    /*SECTION .ONE-------------------------------------------------------------------------  */
   .one{
     background-image: url('imgs/s.jpg');
@@ -74,6 +75,8 @@ nav  ul{
   font-family:Arial, Helvetica, sans-serif ;
   font-weight: bold;
   text-align: center;
+  font-size: 38px;
+
 }
 .one .popup{
 border: 2px solid brown;
