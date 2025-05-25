@@ -49,10 +49,12 @@ header {
 nav  ul{
       display: flex;
       flex-flow: row wrap;
-      justify-content: space-between;
-      gap: 5px;
+      justify-content: space-around;
+      gap:  0px;
       align-items: baseline;
       list-style: none;
+      margin: 0px;
+    background-color: lightsalmon;
     }
    /*SECTION .ONE-------------------------------------------------------------------------  */
   .one{
