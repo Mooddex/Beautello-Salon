@@ -1,1 +1,1 @@
-# salon
+# Beautello-Salon
