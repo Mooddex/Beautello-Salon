@@ -26,6 +26,7 @@
    body {
      display: flex;
      flex-flow: row wrap;
+     margin: 0px;
    }
    
    
@@ -45,14 +46,17 @@ header {
      
    }
  
-nav  ul{
+#navigationtap{
       display: flex;
       flex-flow: row wrap;
-      justify-content: space-between;
-      gap: 5px;
+      justify-content: space-around;
+      gap:  0px;
       align-items: baseline;
       list-style: none;
+      margin: 0px;
+    background-color: lightsalmon;
     }
+    
    /*SECTION .ONE-------------------------------------------------------------------------  */
   .one{
     background-image: url('imgs/s.jpg');
@@ -71,6 +75,8 @@ nav  ul{
   font-family:Arial, Helvetica, sans-serif ;
   font-weight: bold;
   text-align: center;
+  font-size: 38px;
+
 }
 .one .popup{
 border: 2px solid brown;
@@ -176,6 +182,9 @@ width: 50%;
      color: black;
      text-decoration: none;
    }
+   a:hover{
+    color: brown;
+   }
    /* header-----------------------------------------------*/
 header {  
      width: 100%;
@@ -236,6 +245,14 @@ margin-right: 10px;
    .three{
     display: flex;
     flex-flow: row nowrap;
+  }
+  #secondParagraph{
+    border-left: 1px solid black;
+    padding: 0 10px;
+  }
+  #thirdParagraph{
+   border-left: 1px solid black;
+   padding: 0 10px;
   }
    /*SECTION .FINAL------------------------------------------------------------------------  */
  .final{
