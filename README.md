@@ -1,1 +1,2 @@
 # Beautello-Salon
+This is a modern, sleek, and aesthetically pleasing website to soothe the eyes as much as our shampoo soothes your hair. Offering deals on all hairstyles and accessories to make you bolder, brighter, and more fashionable.Join us now at "placeholder for title"
