@@ -4,9 +4,9 @@ A modern, responsive beauty salon website built to showcase elegant design and f
 
 **🔗 Live Demo:** [https://beautello.netlify.app/]
 
-![Beautello Screenshot]( <a target="_blank" href="https://beautello.netlify.app/">
+ <a target="_blank" href="https://beautello.netlify.app/">
             <img src="https://res.cloudinary.com/deq0w5tnr/image/upload/v1750179247/2025-06-17-192811-beautello-redefine-your-style-screenclip_kz5wjn.png" width="100%" alt="Travel App"/>
-        </a>)
+        </a>
 
 ---
 
